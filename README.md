@@ -3,7 +3,7 @@
 Colabs for using GNNs using pytorch geometric and tensorflow tf-gnn </br>
 The assignment is 3 parts </br>
 a) Do graph level prediction using GAT/GCN </br>
-hint: i gave an example in class : given a molecule graph whether it dissolves or not </br>
+Link: https://github.com/cmpe130weifeng/cmpe297_hw2/blob/main/part_a_graph_prediction/part_a.ipynb </br>
 b) Do a Node classification using GAT/GCN </br>
 hint: i gave example of CORA data set of citation in the class of classifying a new paper type </br>
 c) Do an link prediction of graph </br>
