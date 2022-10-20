@@ -11,7 +11,7 @@ In this exercise, I practiced NetworkX and its dataset 'KarateClub' to prefrom c
 Link: https://github.com/cmpe130weifeng/cmpe297_hw2/blob/main/part_b_node_prediction </br>
 </br>
 c) Do an link prediction of graph </br>
-I used Cora dataset to predict connection between targeted nodes. </br>
+I used Cora dataset to predict connection between targeted nodes. And second try I used GraphSAGE(GCN layers).</br>
 https://github.com/cmpe130weifeng/cmpe297_hw2/blob/main/part_c_link_prediction
 
 </br>
