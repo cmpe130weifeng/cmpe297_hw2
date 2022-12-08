@@ -13,10 +13,12 @@ Link: https://github.com/cmpe130weifeng/cmpe297_hw2/blob/main/part_b_node_predic
 c) Do an link prediction of graph </br>
 I used Cora dataset to predict connection between targeted nodes. And second try I used GraphSAGE(GCN layers).</br>
 https://github.com/cmpe130weifeng/cmpe297_hw2/blob/main/part_c_link_prediction
-
+</br>
 </br>
 Reference: </br>
-https://colab.sandbox.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial12/Tutorial12%20GAE%20for%20link%20prediction.ipynb </br>
 http://cs230.stanford.edu/projects_spring_2020/reports/38854344.pdf </br>
-hints : https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html 
+hints : https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html </br>
+https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial1/Tutorial1.ipynb </br>
+https://colab.sandbox.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial12/Tutorial12%20GAE%20for%20link%20prediction.ipynb </br>
+
 
