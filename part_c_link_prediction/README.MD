@@ -13,3 +13,11 @@ The AUC is about 0.87.
 </br>
 Colab Link: https://colab.research.google.com/drive/12yOvQKk6q718osYJbxeZreirguMXShL9 </br>
 
+</br>
+</br>
+Reference: </br>
+http://cs230.stanford.edu/projects_spring_2020/reports/38854344.pdf </br>
+https://colab.research.google.com/github/AntonioLonga/PytorchGeometricTutorial/blob/main/Tutorial12/Tutorial12%20GAE%20for%20link%20prediction.ipynb </br>
+https://www.zhihu.com/question/273499382?sort=created </br>
+
+
