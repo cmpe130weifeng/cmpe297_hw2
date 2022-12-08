@@ -9,4 +9,11 @@ Colab link: https://colab.research.google.com/drive/1OjBovp_akgIHOEZtOkRtXqP9i6C
 Result after ran 400 epoches:  </br>
 ![image](https://user-images.githubusercontent.com/32551600/196338488-215c8a45-4385-4adf-b30c-69f4fe944d9d.png)
 
+</br>
+</br>
+Reference : </br> 
+https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html  </br> 
+https://towardsdatascience.com/a-beginners-guide-to-graph-neural-networks-using-pytorch-geometric-part-2-cd82c01330ab </br>
+
+
 
